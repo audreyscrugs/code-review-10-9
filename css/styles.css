@@ -1,3 +1,7 @@
 #list {
   display: none;
 }
+
+body {
+  background-color: pink;
+}
