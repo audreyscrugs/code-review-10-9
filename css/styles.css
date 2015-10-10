@@ -5,3 +5,23 @@
 body {
   background-color: pink;
 }
+
+h1 {
+  font-family:monospace;
+}
+
+.form-group {
+  font-family:monospace;
+}
+
+.btn {
+  font-family: monospace;
+}
+
+li {
+  font-family: monospace;
+}
+
+h2 {
+  font-family: monospace;
+}
